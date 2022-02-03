@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace AON\allornothing;
+namespace GamerMJay\All-or-nothing;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\CommandSender;
