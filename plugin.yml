@@ -1,8 +1,9 @@
 name: All-or-nothing
 version: 1.3.0
 api: 4.0.0
-author: GamerMJay2008 and leMimic
-main: AON\allornothing\Main
+author: GamerMJay
+main: GamerMJay\All-or-nothing\Main
+
 commands:
   aon:
     description: "All or Nothing Command"
